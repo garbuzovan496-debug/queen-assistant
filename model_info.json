@@ -1,0 +1,10 @@
+{
+  "name": "AI Ticket Classifier",
+  "version": "1.0.0",
+  "accuracy": 0.92,
+  "f1_score": 0.918,
+  "num_categories": 10,
+  "model_type": "XLM-RoBERTa",
+  "author": "Наталья Гарбузова",
+  "date": "2026-08-04"
+}
